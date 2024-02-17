@@ -1,0 +1,63 @@
+.section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.section__main{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.section-header {
+  text-align: center;
+}
+
+.do-active img  {
+  padding: 6px 10px;
+  border:1px solid rgb(196, 194, 194) ;
+  border-radius: 10px;
+}
+
+.do-active_about {
+  padding-left: 150px;
+}
+
+.do-active_about h1 {
+  font-family: Satoshi;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+}
+
+.do-active_about p {
+  font-family: Satoshi;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+opacity: 0.6;
+}
+
+.do-active_about ul li {
+  font-family: Satoshi;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 20px;
+
+}
+
+.btn-first {
+ padding: 10px 40px;
+ border: 1px solid black;
+ gap: 10px;
+ border-radius: 6px;
+ margin-right: 15px;
+}

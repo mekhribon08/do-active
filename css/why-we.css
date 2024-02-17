@@ -1,0 +1,128 @@
+.why__we h1 {
+  font-family: Satoshi;
+font-size: 40px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+}
+
+.wrap  {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  
+}
+
+.wrap h5 {
+  font-family: Satoshi;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+}
+
+.wrap p {
+  font-family: Satoshi;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+opacity: 40%;
+}
+
+/* ~~~~ types-section~~~~ */
+
+.types__wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-top: 100px;
+  margin-bottom: 250px;
+}
+
+.types h1 {
+  font-family: Satoshi;
+font-size: 40px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+.types__wrapper p {
+  font-family: Satoshi;
+font-size: 30px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+margin: 0;
+opacity: 60%;
+
+}
+
+.types__wrapper h5 {
+  font-family: Satoshi;
+font-size: 28px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+margin: 0;
+
+}
+
+.types__img {
+ margin-right: -100px;
+}
+
+/* ~~~ shop-section~~~ */
+
+.shop__inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.shop__wrapper h1 {
+  font-family: Satoshi;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.shop__wrapper p {
+  font-family: Satoshi;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: -0.02em;
+text-align: left;
+
+}
+
+.shop__inner {
+  background: #D6FFDA;
+  padding: 0px 50px 0px 100px;
+  margin-bottom: 100px;
+}
+ 
+.shop__img {
+  margin-top: -120px;
+}
